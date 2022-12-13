@@ -21,6 +21,8 @@ Face Detection - For Face detection we have used Viola-Jones algorithm
 
 4.	Find the Supporting Version.
 ![image](https://user-images.githubusercontent.com/71866596/207364584-60ae540f-07e7-448f-b72f-8c04383ba0b3.png)
+
+
 To detect a face or a particular feature on the faces of people, following steps are used in MATLAB program (testing.m) – 
 
 1.	Define and set up your cascade object detector using the constructor.
