@@ -15,14 +15,14 @@ Face Detection - For Face detection we have used Viola-Jones algorithm
 1.	Install the required Add-ons.
 
 2.	Get Device ID via: info=imaqhwinfo("winvideo").
-![image](https://user-images.githubusercontent.com/71866596/207364548-0f750db9-8a53-44d8-92ba-16ed69215cb2.png)
 
+![image](https://user-images.githubusercontent.com/71866596/207364548-0f750db9-8a53-44d8-92ba-16ed69215cb2.png)
 
 3.	Add the ID to the Code.
 
-
 4.	Find the Supporting Version.
-![image](https://user-images.githubusercontent.com/71866596/207364584-60ae540f-07e7-448f-b72f-8c04383ba0b3.png)
+
+![image](https://user-images.githubusercontent.com/71866596/207365572-f386c921-21d7-4cdf-bcdf-825da9118194.png)
 
 
 To detect a face or a particular feature on the faces of people, following steps are used in MATLAB program (testing.m) – 
