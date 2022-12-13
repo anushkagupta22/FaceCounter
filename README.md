@@ -17,7 +17,9 @@ Face Detection - For Face detection we have used Viola-Jones algorithm
 2.	Get Device ID via: info=imaqhwinfo("winvideo").
 ![image](https://user-images.githubusercontent.com/71866596/207364548-0f750db9-8a53-44d8-92ba-16ed69215cb2.png)
 
+
 3.	Add the ID to the Code.
+
 
 4.	Find the Supporting Version.
 ![image](https://user-images.githubusercontent.com/71866596/207364584-60ae540f-07e7-448f-b72f-8c04383ba0b3.png)
@@ -36,6 +38,7 @@ It returns BBOX, an M-by-4 matrix defining M bounding boxes containing the detec
 3.	insertObjectAnnotation(I, ‘rectangle’, Position, Label)
 It inserts rectangles and corresponding labels at the location indicated by the position matrix. The position input must be an M-by-4 matrix, where each row (M) specifies a rectangle as a four-element vector 
 (x, y, width, height). The elements x and y indicate the upper-left corner of the rectangle, and the width and height specify the size.
+
 
 OUPUT –
 
