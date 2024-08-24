@@ -4,9 +4,8 @@ AIM – To implement FACE COUNTER in real time using MATLAB.
 EQUIPMENTS –
 1.	PC with windows(95/98/XP/NT/2000)
 2.	MATLAB software
-3.	MATLAB apps used –
-1.	Image Acquisition Toolbox
-2.	OS Generic support package for using camera
+3.	Image Acquisition Toolbox
+4.	OS Generic support package for using camera
 
 INTRODUCTION - Face Counter, also called facial detection is an artificial intelligence (AI) based computer technology used to find and identify human faces in digital images. Face counting technology can be applied to various fields including security, biometrics, law enforcement, entertainment, and personal safety to provide surveillance and tracking of people in real time. Thus, this Face Counter using the MATLAB program helps count the number of persons present in a meeting hall or classroom at a time and is very useful.
 
